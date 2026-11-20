@@ -52,7 +52,7 @@ pipenv install --dev -e .
 pyinstaller --onefile --windowed --name CamControl app.py
 ```
 
-The executable will be available in the dist histrory.
+The executable will be available in the dist directory.
 
 ## LICENSE
 
